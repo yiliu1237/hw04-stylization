@@ -13,9 +13,9 @@ This project explores stylized non-photorealistic rendering (NPR) techniques in 
     <th style="text-align:center">In-Game Scene Example 2</th>
   </tr>
   <tr>
-    <td align="center"><img src="demo/animalWellExample.png" width="300"/></td>
-    <td align="center"><img src="demo/image2.png" width="300"/></td>
-    <td align="center"><img src="demo/image1.png" width="300"/></td>
+    <td align="center"><img src="demo/animalWellExample.png" width="300" height="200"/></td>
+    <td align="center"><img src="demo/image2.png" width="300" height="200"/></td>
+    <td align="center"><img src="demo/image1.png" width="300" height="200"/></td>
   </tr>
 </table>
 <br/>
