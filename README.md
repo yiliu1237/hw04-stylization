@@ -6,10 +6,18 @@ This project explores stylized non-photorealistic rendering (NPR) techniques in 
 
 ## Demo
 
-| Concept-Inspired Stylization | In-Game Scene Example 1 | In-Game Scene Example 2 |
-|:--:|:--:|:--:|
-| ![](demo/animalWellExample.png) | ![](demo/image2.png) | ![](demo/image1.png) |
-
+<table>
+  <tr>
+    <th style="text-align:center">Concept-Inspired Stylization</th>
+    <th style="text-align:center">In-Game Scene Example 1</th>
+    <th style="text-align:center">In-Game Scene Example 2</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="demo/animalWellExample.png" width="300"/></td>
+    <td align="center"><img src="demo/image2.png" width="300"/></td>
+    <td align="center"><img src="demo/image1.png" width="300"/></td>
+  </tr>
+</table>
 <br/>
 
 <p align="center">
