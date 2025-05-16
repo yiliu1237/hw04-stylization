@@ -42,9 +42,17 @@ This project explores stylized non-photorealistic rendering (NPR) techniques in 
 - Screen-space vignette with chromatic blending and noise overlays.
 - Custom palette shifting and tone mapping 
 
+### Camera Control System
+- **Fly-through Camera**  
+  WASD movement, mouse look, vertical Q/E controls, and acceleration via Shift key.
+- **Mouse Look Toggle**  
+  Alt disables mouse input for UI interactions.
+- **XZ-Plane Constraint**  
+  Spacebar enables ground-level movement by locking the Y axis.
+
 
 ## Inspirations
-- *Animal Well* – for its glowing minimalism, eerie calm, and color-restrained lighting.
+- *Animal Well* - for its glowing minimalism, eerie calm, and color-restrained lighting.
 - Hand-drawn 2D concept art featuring strong outlines and low-saturation palettes.
 
 ## Techniques Used
